@@ -1,11 +1,6 @@
-/bin
-/gen
-/obj
-/libs/*/*.so
-/qqtool/bin
-/appcompat/bin
-/cardview/bin
-/design/bin
-/library/bin
-/recyclerview/bin
+
+/gdx-game/bin
+/gdx-game/gen
+/gdx-game-android/bin
+/gdx-game-android/gen
 
